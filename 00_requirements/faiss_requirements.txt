@@ -1,0 +1,43 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+_libgcc_mutex=0.1=conda_forge
+_openmp_mutex=4.5=2_kmp_llvm
+blas=1.0=mkl
+bzip2=1.0.8=hd590300_5
+ca-certificates=2023.11.17=hbcca054_0
+cudatoolkit=11.4.1=h8ab8bb3_9
+faiss-gpu=1.7.4=py3.10_hc0239a3_0_cuda11.4
+icu=73.2=h59595ed_0
+ld_impl_linux-64=2.40=h41732ed_0
+libblas=3.9.0=12_linux64_mkl
+libcblas=3.9.0=12_linux64_mkl
+libfaiss=1.7.4=h13c3c6d_0_cuda11.4
+libffi=3.4.2=h7f98852_5
+libgcc-ng=13.2.0=h807b86a_4
+libhwloc=2.9.3=default_h554bfaf_1009
+libiconv=1.17=hd590300_2
+liblapack=3.9.0=12_linux64_mkl
+libnsl=2.0.1=hd590300_0
+libsqlite=3.44.2=h2797004_0
+libstdcxx-ng=13.2.0=h7e041cc_4
+libuuid=2.38.1=h0b41bf4_0
+libxcrypt=4.4.36=hd590300_1
+libxml2=2.12.4=h232c23b_1
+libzlib=1.2.13=hd590300_5
+llvm-openmp=17.0.6=h4dfa4b3_0
+mkl=2021.4.0=h8d4b97c_729
+ncurses=6.4=h59595ed_2
+numpy=1.26.3=py310hb13e2d6_0
+openssl=3.2.1=hd590300_0
+pip=23.3.2=pyhd8ed1ab_0
+python=3.10.13=hd12c33a_1_cpython
+python_abi=3.10=4_cp310
+readline=8.2=h8228510_1
+setuptools=69.0.3=pyhd8ed1ab_0
+tbb=2021.11.0=h00ab1b0_1
+tk=8.6.13=noxft_h4845f30_101
+tzdata=2023d=h0c530f3_0
+wheel=0.42.0=pyhd8ed1ab_0
+xz=5.2.6=h166bdaf_0
+zstd=1.5.5=hfc55251_0

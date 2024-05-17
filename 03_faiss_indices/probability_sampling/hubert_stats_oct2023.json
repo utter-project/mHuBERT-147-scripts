@@ -1,0 +1,1019 @@
+{
+  "ceb": {
+    "json": [
+      "voxlingua107_part3/ceb/filtered_train.json"
+    ],
+    "duration": 3.8599000347222208
+  },
+  "cy": {
+    "json": [
+      "voxlingua107_part3/cy/filtered_train.json",
+      "commonvoice_part9/cy/filtered_train.json"
+    ],
+    "duration": 166.17529946180645
+  },
+  "cs": {
+    "json": [
+      "voxlingua107_part3/cs/filtered_train.json",
+      "voxpopuli_extended_10k/cs/filtered_train.json",
+      "commonvoice_part9/cs/filtered_train.json"
+    ],
+    "duration": 966.6512085001998
+  },
+  "ca": {
+    "json": [
+      "voxlingua107_part3/ca/filtered_train.json",
+      "commonvoice_part8/ca/filtered_train.json"
+    ],
+    "duration": 1719.0107558642264
+  },
+  "en": {
+    "json": [
+      "en_14/en/train.json",
+      "en_1/en/train.json",
+      "en_15/en/train.json",
+      "en_16/en/train.json",
+      "en_2/en/train.json",
+      "en_17/en/train.json",
+      "en_3/en/train.json",
+      "en_4/en/train.json",
+      "en_10/en/train.json",
+      "en_5/en/train.json",
+      "en_11/en/train.json",
+      "en_12/en/train.json",
+      "en_6/en/train.json",
+      "voxpopuli_10k_set/en/filtered_train.json",
+      "voxlingua107_part4/en/filtered_train.json",
+      "en_13/en/train.json",
+      "en_7/en/train.json",
+      "en_9/en/train.json",
+      "en_8/en/train.json",
+      "en_19/en/train.json",
+      "en_18/en/train.json",
+      "en_20/en/train.json",
+      "commonvoice_part7/en/filtered_train.json"
+    ],
+    "duration": 47210.85278204244
+  },
+  "ug": {
+    "json": [
+      "THUYG-20/ug/train.json",
+      "commonvoice_part1/ug/filtered_train.json"
+    ],
+    "duration": 115.53181826388747
+  },
+  "bo": {
+    "json": [
+      "voxlingua107_part2/bo/filtered_train.json"
+    ],
+    "duration": 92.43669147569449
+  },
+  "be": {
+    "json": [
+      "voxlingua107_part2/be/filtered_train.json",
+      "commonvoice_part6/be/filtered_train.json"
+    ],
+    "duration": 1228.0636634379657
+  },
+  "ba": {
+    "json": [
+      "voxlingua107_part2/ba/filtered_train.json",
+      "commonvoice_part6/ba/filtered_train.json"
+    ],
+    "duration": 268.12988595488446
+  },
+  "br": {
+    "json": [
+      "voxlingua107_part2/br/filtered_train.json",
+      "commonvoice_part6/br/filtered_train.json"
+    ],
+    "duration": 37.496910590277835
+  },
+  "bn": {
+    "json": [
+      "voxlingua107_part2/bn/filtered_train.json",
+      "google_tts/bn/filtered_train.json",
+      "commonvoice_part6/bn/filtered_train.json"
+    ],
+    "duration": 81.18128281249984
+  },
+  "bg": {
+    "json": [
+      "voxlingua107_part2/bg/filtered_train.json",
+      "voxpopuli_extended_10k/bg/filtered_train.json",
+      "commonvoice_part6/bg/filtered_train.json"
+    ],
+    "duration": 825.5348763888926
+  },
+  "bs": {
+    "json": [
+      "voxlingua107_part2/bs/filtered_train.json"
+    ],
+    "duration": 97.72407482638903
+  },
+  "af": {
+    "json": [
+      "voxlingua107_part1/af/filtered_train.json",
+      "google_tts/af/filtered_train.json"
+    ],
+    "duration": 103.30437491319448
+  },
+  "ar": {
+    "json": [
+      "voxlingua107_part1/ar/filtered_train.json",
+      "commonvoice_part6/ar/filtered_train.json"
+    ],
+    "duration": 114.53116948484356
+  },
+  "ab": {
+    "json": [
+      "voxlingua107_part1/ab/filtered_train.json",
+      "commonvoice_part6/ab/filtered_train.json"
+    ],
+    "duration": 43.91213920138908
+  },
+  "am": {
+    "json": [
+      "voxlingua107_part1/am/filtered_train.json"
+    ],
+    "duration": 73.99115546874982
+  },
+  "as": {
+    "json": [
+      "voxlingua107_part1/as/filtered_train.json",
+      "commonvoice_part6/as/filtered_train.json"
+    ],
+    "duration": 143.98219171874956
+  },
+  "az": {
+    "json": [
+      "voxlingua107_part1/az/filtered_train.json",
+      "commonvoice_part6/az/filtered_train.json"
+    ],
+    "duration": 55.649672864583195
+  },
+  "gn": {
+    "json": [
+      "voxlingua107_part7/gn/filtered_train.json",
+      "commonvoice_part5/gn/filtered_train.json"
+    ],
+    "duration": 1.4032189236111117
+  },
+  "gu": {
+    "json": [
+      "voxlingua107_part7/gu/filtered_train.json"
+    ],
+    "duration": 39.48171131944457
+  },
+  "gl": {
+    "json": [
+      "voxlingua107_part7/gl/filtered_train.json",
+      "commonvoice_part5/gl/filtered_train.json"
+    ],
+    "duration": 70.42431942708228
+  },
+  "gv": {
+    "json": [
+      "voxlingua107_part7/gv/filtered_train.json"
+    ],
+    "duration": 3.5241389930555576
+  },
+  "de": {
+    "json": [
+      "MLS/de/train.json",
+      "voxpopuli_10k_set/de/filtered_train.json",
+      "voxlingua107_part4/de/filtered_train.json",
+      "commonvoice_part10/de/filtered_train.json"
+    ],
+    "duration": 3368.5514576672654
+  },
+  "pt": {
+    "json": [
+      "MLS/pt/train.json",
+      "voxpopuli_extended_10k/pt/filtered_train.json",
+      "commonvoice_part3/pt/filtered_train.json",
+      "voxlingua107_part13/pt/filtered_train.json"
+    ],
+    "duration": 1173.4260567400077
+  },
+  "it": {
+    "json": [
+      "MLS/it/train.json",
+      "voxlingua107_part9/it/filtered_train.json",
+      "voxpopuli_extended_10k/it/filtered_train.json",
+      "commonvoice_part5/it/filtered_train.json"
+    ],
+    "duration": 1179.6836612535603
+  },
+  "es": {
+    "json": [
+      "MLS/es/train.json",
+      "voxlingua107_part5/es/filtered_train.json",
+      "voxpopuli_10k_set/es/filtered_train.json",
+      "commonvoice_part9/es/filtered_train.json"
+    ],
+    "duration": 1633.7188277986252
+  },
+  "pl": {
+    "json": [
+      "MLS/pl/train.json",
+      "voxpopuli_extended_10k/pl/filtered_train.json",
+      "commonvoice_part3/pl/filtered_train.json",
+      "voxlingua107_part13/pl/filtered_train.json"
+    ],
+    "duration": 1151.1121896070663
+  },
+  "nl": {
+    "json": [
+      "MLS/nl/train.json",
+      "voxpopuli_10k_set/nl/filtered_train.json",
+      "commonvoice_part3/nl/filtered_train.json",
+      "voxlingua107_part13/nl/filtered_train.json"
+    ],
+    "duration": 1940.4622137847578
+  },
+  "fr": {
+    "json": [
+      "MLS/fr/train.json",
+      "voxlingua107_part6/fr/filtered_train.json",
+      "voxpopuli_10k_set/fr/filtered_train.json",
+      "commonvoice_part7/fr/filtered_train.json"
+    ],
+    "duration": 2266.61861240251
+  },
+  "fi": {
+    "json": [
+      "voxlingua107_part6/fi/filtered_train.json",
+      "voxpopuli_extended_10k/fi/filtered_train.json",
+      "commonvoice_part9/fi/filtered_train.json"
+    ],
+    "duration": 850.4846837223603
+  },
+  "fo": {
+    "json": [
+      "voxlingua107_part6/fo/filtered_train.json"
+    ],
+    "duration": 56.35078015624943
+  },
+  "fa": {
+    "json": [
+      "voxlingua107_part6/fa/filtered_train.json",
+      "commonvoice_part9/fa/filtered_train.json"
+    ],
+    "duration": 364.42414777495907
+  },
+  "eo": {
+    "json": [
+      "voxlingua107_part5/eo/filtered_train.json",
+      "commonvoice_part8/eo/filtered_train.json"
+    ],
+    "duration": 1364.5069595339576
+  },
+  "eu": {
+    "json": [
+      "voxlingua107_part5/eu/filtered_train.json",
+      "commonvoice_part9/eu/filtered_train.json"
+    ],
+    "duration": 104.47507144097277
+  },
+  "et": {
+    "json": [
+      "voxlingua107_part5/et/filtered_train.json",
+      "voxpopuli_extended_10k/et/filtered_train.json",
+      "commonvoice_part9/et/filtered_train.json"
+    ],
+    "duration": 747.3206806129616
+  },
+  "is": {
+    "json": [
+      "samromur/is/filtered_train.json",
+      "voxlingua107_part9/is/filtered_train.json"
+    ],
+    "duration": 2169.5458570465476
+  },
+  "ko": {
+    "json": [
+      "clovacall/ko/filtered_train.json",
+      "kosp2e/ko/filtered_train.json",
+      "voxlingua107_part10/ko/filtered_train.json"
+    ],
+    "duration": 300.52038524305226
+  },
+  "el": {
+    "json": [
+      "voxlingua107_part4/el/filtered_train.json",
+      "voxpopuli_extended_10k/el/filtered_train.json",
+      "commonvoice_part9/el/filtered_train.json"
+    ],
+    "duration": 646.6257503419249
+  },
+  "da": {
+    "json": [
+      "voxlingua107_part4/da/filtered_train.json",
+      "voxpopuli_extended_10k/da/filtered_train.json",
+      "commonvoice_part10/da/filtered_train.json"
+    ],
+    "duration": 756.9787817361188
+  },
+  "ja": {
+    "json": [
+      "Kokoro/ja/train.json",
+      "jvs_ver1/ja/concat_train.json",
+      "voxlingua107_part10/ja/filtered_train.json",
+      "commonvoice_part5/ja/filtered_train.json"
+    ],
+    "duration": 173.46725190972356
+  },
+  "ha": {
+    "json": [
+      "voxlingua107_part8/ha/filtered_train.json",
+      "bibleTTS/ha/concat_train.json",
+      "commonvoice_part5/ha/filtered_train.json"
+    ],
+    "duration": 168.95811375000022
+  },
+  "hu": {
+    "json": [
+      "voxlingua107_part8/hu/filtered_train.json",
+      "voxpopuli_extended_10k/hu/filtered_train.json",
+      "commonvoice_part5/hu/filtered_train.json"
+    ],
+    "duration": 929.2603857238374
+  },
+  "hr": {
+    "json": [
+      "voxlingua107_part8/hr/filtered_train.json",
+      "voxpopuli_extended_10k/hr/filtered_train.json"
+    ],
+    "duration": 945.9929334895746
+  },
+  "haw": {
+    "json": [
+      "voxlingua107_part8/haw/filtered_train.json"
+    ],
+    "duration": 5.356419270833335
+  },
+  "hy": {
+    "json": [
+      "voxlingua107_part8/hy/filtered_train.json",
+      "commonvoice_part5/hy/filtered_train.json"
+    ],
+    "duration": 67.50604748263905
+  },
+  "ht": {
+    "json": [
+      "voxlingua107_part8/ht/filtered_train.json"
+    ],
+    "duration": 86.25771397569392
+  },
+  "hi": {
+    "json": [
+      "voxlingua107_part8/hi/filtered_train.json",
+      "commonvoice_part5/hi/filtered_train.json"
+    ],
+    "duration": 78.15353319444453
+  },
+  "ia": {
+    "json": [
+      "voxlingua107_part9/ia/filtered_train.json",
+      "commonvoice_part5/ia/filtered_train.json"
+    ],
+    "duration": 10.383362899305538
+  },
+  "iw": {
+    "json": [
+      "voxlingua107_part9/iw/filtered_train.json"
+    ],
+    "duration": 89.65328932291696
+  },
+  "id": {
+    "json": [
+      "voxlingua107_part9/id/filtered_train.json",
+      "commonvoice_part5/id/filtered_train.json"
+    ],
+    "duration": 54.952605452806075
+  },
+  "zh-CN": {
+    "json": [
+      "Aishell-3/zh-CN/filtered_train.json",
+      "Aishell/zh-CN/filtered_train.json",
+      "THCHS-30/zh-CN/filtered_train.json",
+      "commonvoice_part1/zh-CN/filtered_train.json",
+      "voxlingua107_part16/zh-CN/filtered_train.json"
+    ],
+    "duration": 382.721191819374
+  },
+  "sv": {
+    "json": [
+      "voxpopuli_extended_10k/sv/filtered_train.json",
+      "commonvoice_part2/sv/filtered_train.json",
+      "voxlingua107_part15/sv/filtered_train.json"
+    ],
+    "duration": 888.2320125343568
+  },
+  "lv": {
+    "json": [
+      "voxpopuli_extended_10k/lv/filtered_train.json",
+      "commonvoice_part3/lv/filtered_train.json",
+      "voxlingua107_part11/lv/filtered_train.json"
+    ],
+    "duration": 908.3729059895876
+  },
+  "ro": {
+    "json": [
+      "voxpopuli_extended_10k/ro/filtered_train.json",
+      "voxlingua107_part14/ro/filtered_train.json",
+      "commonvoice_part10/ro/filtered_train.json"
+    ],
+    "duration": 902.372364123795
+  },
+  "sl": {
+    "json": [
+      "voxpopuli_extended_10k/sl/filtered_train.json",
+      "commonvoice_part2/sl/filtered_train.json",
+      "voxlingua107_part15/sl/filtered_train.json"
+    ],
+    "duration": 951.9784146637562
+  },
+  "sk": {
+    "json": [
+      "voxpopuli_extended_10k/sk/filtered_train.json",
+      "commonvoice_part2/sk/filtered_train.json",
+      "voxlingua107_part15/sk/filtered_train.json"
+    ],
+    "duration": 694.0427904861217
+  },
+  "mt": {
+    "json": [
+      "voxpopuli_extended_10k/mt/filtered_train.json",
+      "voxlingua107_part12/mt/filtered_train.json",
+      "commonvoice_part4/mt/filtered_train.json"
+    ],
+    "duration": 884.8681754513887
+  },
+  "lt": {
+    "json": [
+      "voxpopuli_extended_10k/lt/filtered_train.json",
+      "commonvoice_part3/lt/filtered_train.json",
+      "voxlingua107_part11/lt/filtered_train.json"
+    ],
+    "duration": 881.7473743229209
+  },
+  "ta": {
+    "json": [
+      "IISc-MILE/ta/filtered_train.json",
+      "commonvoice_part2/ta/filtered_train.json",
+      "voxlingua107_part16/ta/filtered_train.json"
+    ],
+    "duration": 362.44436304492854
+  },
+  "kn": {
+    "json": [
+      "IISc-MILE/kn/concat_train.json",
+      "voxlingua107_part10/kn/filtered_train.json"
+    ],
+    "duration": 313.6180476909726
+  },
+  "ee": {
+    "json": [
+      "bibleTTS/ee/train.json"
+    ],
+    "duration": 76.63788389467591
+  },
+  "akuapem-twi": {
+    "json": [
+      "bibleTTS/akuapem-twi/concat_train.json"
+    ],
+    "duration": 59.775537719907554
+  },
+  "yo": {
+    "json": [
+      "bibleTTS/yo/concat_train.json",
+      "voxlingua107_part14/yo/filtered_train.json"
+    ],
+    "duration": 90.78694720486088
+  },
+  "asante-twi": {
+    "json": [
+      "bibleTTS/asante-twi/concat_train.json"
+    ],
+    "duration": 56.810817152777815
+  },
+  "ln": {
+    "json": [
+      "bibleTTS/ln/train.json",
+      "voxlingua107_part11/ln/filtered_train.json"
+    ],
+    "duration": 131.8444635358799
+  },
+  "fy-NL": {
+    "json": [
+      "commonvoice_part9/fy-NL/filtered_train.json"
+    ],
+    "duration": 41.194797392290326
+  },
+  "cnh": {
+    "json": [
+      "commonvoice_part9/cnh/filtered_train.json"
+    ],
+    "duration": 0.7150066666666671
+  },
+  "cv": {
+    "json": [
+      "commonvoice_part9/cv/filtered_train.json"
+    ],
+    "duration": 17.337395714285705
+  },
+  "ckb": {
+    "json": [
+      "commonvoice_part9/ckb/filtered_train.json"
+    ],
+    "duration": 90.48934000001827
+  },
+  "nn": {
+    "json": [
+      "commonvoice_part3/nn/filtered_train.json",
+      "voxlingua107_part13/nn/filtered_train.json"
+    ],
+    "duration": 43.685269618055514
+  },
+  "pa": {
+    "json": [
+      "commonvoice_part3/pa/filtered_train.json",
+      "voxlingua107_part13/pa/filtered_train.json"
+    ],
+    "duration": 43.07263756944446
+  },
+  "ne": {
+    "json": [
+      "commonvoice_part3/ne/filtered_train.json",
+      "google_tts/ne/filtered_train.json",
+      "voxlingua107_part13/ne/filtered_train.json"
+    ],
+    "duration": 68.37147211805514
+  },
+  "nan-tw": {
+    "json": [
+      "commonvoice_part3/nan-tw/filtered_train.json"
+    ],
+    "duration": 0.6730100000000016
+  },
+  "or": {
+    "json": [
+      "commonvoice_part3/or/filtered_train.json"
+    ],
+    "duration": 0.773546666666667
+  },
+  "lg": {
+    "json": [
+      "commonvoice_part3/lg/filtered_train.json"
+    ],
+    "duration": 362.97973068027517
+  },
+  "uk": {
+    "json": [
+      "voxlingua107_part14/uk/filtered_train.json",
+      "commonvoice_part1/uk/filtered_train.json"
+    ],
+    "duration": 102.16962293367487
+  },
+  "ur": {
+    "json": [
+      "voxlingua107_part14/ur/filtered_train.json",
+      "commonvoice_part1/ur/filtered_train.json"
+    ],
+    "duration": 73.9982068229182
+  },
+  "ru": {
+    "json": [
+      "voxlingua107_part14/ru/filtered_train.json",
+      "commonvoice_part10/ru/filtered_train.json"
+    ],
+    "duration": 216.54977101616117
+  },
+  "yi": {
+    "json": [
+      "voxlingua107_part14/yi/filtered_train.json"
+    ],
+    "duration": 35.91990539930561
+  },
+  "uz": {
+    "json": [
+      "voxlingua107_part14/uz/filtered_train.json",
+      "commonvoice_part1/uz/filtered_train.json"
+    ],
+    "duration": 111.91201168403448
+  },
+  "tok": {
+    "json": [
+      "commonvoice_part2/tok/filtered_train.json"
+    ],
+    "duration": 3.3197000000000094
+  },
+  "th": {
+    "json": [
+      "commonvoice_part2/th/filtered_train.json",
+      "voxlingua107_part16/th/filtered_train.json"
+    ],
+    "duration": 185.52199104061208
+  },
+  "skr": {
+    "json": [
+      "commonvoice_part2/skr/filtered_train.json"
+    ],
+    "duration": 1.3330100000000018
+  },
+  "sr": {
+    "json": [
+      "commonvoice_part2/sr/filtered_train.json",
+      "voxlingua107_part15/sr/filtered_train.json"
+    ],
+    "duration": 48.2775078993059
+  },
+  "tr": {
+    "json": [
+      "commonvoice_part2/tr/filtered_train.json",
+      "voxlingua107_part16/tr/filtered_train.json",
+      "MediaSpeech/tr/train.json"
+    ],
+    "duration": 123.73832293970212
+  },
+  "sat": {
+    "json": [
+      "commonvoice_part2/sat/filtered_train.json"
+    ],
+    "duration": 0.36795000000000005
+  },
+  "sah": {
+    "json": [
+      "commonvoice_part2/sah/filtered_train.json"
+    ],
+    "duration": 2.7164499999999965
+  },
+  "sw": {
+    "json": [
+      "commonvoice_part2/sw/filtered_train.json",
+      "voxlingua107_part15/sw/filtered_train.json"
+    ],
+    "duration": 361.7707924305425
+  },
+  "sc": {
+    "json": [
+      "commonvoice_part2/sc/filtered_train.json"
+    ],
+    "duration": 0.6575300000000004
+  },
+  "tt": {
+    "json": [
+      "commonvoice_part2/tt/filtered_train.json",
+      "voxlingua107_part16/tt/filtered_train.json"
+    ],
+    "duration": 113.63059671874979
+  },
+  "tig": {
+    "json": [
+      "commonvoice_part2/tig/filtered_train.json"
+    ],
+    "duration": 0.011450000000000002
+  },
+  "sa": {
+    "json": [
+      "voxlingua107_part15/sa/filtered_train.json"
+    ],
+    "duration": 4.644847222222223
+  },
+  "su": {
+    "json": [
+      "voxlingua107_part15/su/filtered_train.json",
+      "google_tts/su/filtered_train.json"
+    ],
+    "duration": 45.77734611111117
+  },
+  "so": {
+    "json": [
+      "voxlingua107_part15/so/filtered_train.json"
+    ],
+    "duration": 94.92484739583408
+  },
+  "sco": {
+    "json": [
+      "voxlingua107_part15/sco/filtered_train.json"
+    ],
+    "duration": 1.5077083333333323
+  },
+  "sq": {
+    "json": [
+      "voxlingua107_part15/sq/filtered_train.json"
+    ],
+    "duration": 67.15949986111069
+  },
+  "sn": {
+    "json": [
+      "voxlingua107_part15/sn/filtered_train.json"
+    ],
+    "duration": 21.517408211805588
+  },
+  "sd": {
+    "json": [
+      "voxlingua107_part15/sd/filtered_train.json"
+    ],
+    "duration": 48.23707494791672
+  },
+  "si": {
+    "json": [
+      "voxlingua107_part15/si/filtered_train.json"
+    ],
+    "duration": 60.62879769097209
+  },
+  "vi": {
+    "json": [
+      "commonvoice_part1/vi/filtered_train.json",
+      "voxlingua107_part16/vi/filtered_train.json"
+    ],
+    "duration": 59.32338470486083
+  },
+  "vot": {
+    "json": [
+      "commonvoice_part1/vot/filtered_train.json"
+    ],
+    "duration": 0.10639999999999994
+  },
+  "zh-TW": {
+    "json": [
+      "commonvoice_part1/zh-TW/filtered_train.json"
+    ],
+    "duration": 56.27580346938946
+  },
+  "zh-HK": {
+    "json": [
+      "commonvoice_part1/zh-HK/filtered_train.json"
+    ],
+    "duration": 89.50339346938536
+  },
+  "yue": {
+    "json": [
+      "commonvoice_part1/yue/filtered_train.json"
+    ],
+    "duration": 15.568719999998581
+  },
+  "tg": {
+    "json": [
+      "voxlingua107_part16/tg/filtered_train.json"
+    ],
+    "duration": 60.53647770833318
+  },
+  "te": {
+    "json": [
+      "voxlingua107_part16/te/filtered_train.json"
+    ],
+    "duration": 64.27519777777776
+  },
+  "war": {
+    "json": [
+      "voxlingua107_part16/war/filtered_train.json"
+    ],
+    "duration": 3.9262582986111068
+  },
+  "tl": {
+    "json": [
+      "voxlingua107_part16/tl/filtered_train.json"
+    ],
+    "duration": 82.72425559027833
+  },
+  "tk": {
+    "json": [
+      "voxlingua107_part16/tk/filtered_train.json"
+    ],
+    "duration": 81.7793000868058
+  },
+  "rw": {
+    "json": [
+      "commonvoice_part11/rw/filtered_train.json"
+    ],
+    "duration": 1982.7239543763396
+  },
+  "dv": {
+    "json": [
+      "commonvoice_part10/dv/filtered_train.json"
+    ],
+    "duration": 32.39747725623512
+  },
+  "rm-vallader": {
+    "json": [
+      "commonvoice_part10/rm-vallader/filtered_train.json"
+    ],
+    "duration": 1.1843933333333323
+  },
+  "rm-sursilv": {
+    "json": [
+      "commonvoice_part10/rm-sursilv/filtered_train.json"
+    ],
+    "duration": 2.415409251700677
+  },
+  "tn": {
+    "json": [
+      "google_tts/tn/filtered_train.json"
+    ],
+    "duration": 3.522835486111136
+  },
+  "xh": {
+    "json": [
+      "google_tts/xh/filtered_train.json"
+    ],
+    "duration": 3.0559904687500024
+  },
+  "km": {
+    "json": [
+      "google_tts/km/filtered_train.json",
+      "voxlingua107_part10/km/filtered_train.json"
+    ],
+    "duration": 30.991103437500115
+  },
+  "st": {
+    "json": [
+      "google_tts/st/filtered_train.json"
+    ],
+    "duration": 3.215207708333356
+  },
+  "jv": {
+    "json": [
+      "google_tts/jv/filtered_train.json",
+      "voxlingua107_part10/jv/filtered_train.json"
+    ],
+    "duration": 27.903518559027834
+  },
+  "ka": {
+    "json": [
+      "voxlingua107_part10/ka/filtered_train.json",
+      "commonvoice_part4/ka/filtered_train.json"
+    ],
+    "duration": 100.022454791667
+  },
+  "kk": {
+    "json": [
+      "voxlingua107_part10/kk/filtered_train.json",
+      "commonvoice_part4/kk/filtered_train.json"
+    ],
+    "duration": 73.20223005208344
+  },
+  "la": {
+    "json": [
+      "voxlingua107_part11/la/filtered_train.json"
+    ],
+    "duration": 30.85282776041656
+  },
+  "lo": {
+    "json": [
+      "voxlingua107_part11/lo/filtered_train.json"
+    ],
+    "duration": 36.07781123263878
+  },
+  "lb": {
+    "json": [
+      "voxlingua107_part11/lb/filtered_train.json"
+    ],
+    "duration": 71.7776166145834
+  },
+  "bas": {
+    "json": [
+      "commonvoice_part6/bas/filtered_train.json"
+    ],
+    "duration": 0.9322999999999998
+  },
+  "ast": {
+    "json": [
+      "commonvoice_part6/ast/filtered_train.json"
+    ],
+    "duration": 0.01091
+  },
+  "my": {
+    "json": [
+      "voxlingua107_part12/my/filtered_train.json"
+    ],
+    "duration": 31.457588906249992
+  },
+  "ms": {
+    "json": [
+      "voxlingua107_part12/ms/filtered_train.json"
+    ],
+    "duration": 71.83024447916657
+  },
+  "mg": {
+    "json": [
+      "voxlingua107_part12/mg/filtered_train.json"
+    ],
+    "duration": 94.52638598958328
+  },
+  "mn": {
+    "json": [
+      "voxlingua107_part12/mn/filtered_train.json",
+      "commonvoice_part4/mn/filtered_train.json"
+    ],
+    "duration": 72.42079354166562
+  },
+  "mi": {
+    "json": [
+      "voxlingua107_part12/mi/filtered_train.json"
+    ],
+    "duration": 20.50439722222227
+  },
+  "mk": {
+    "json": [
+      "voxlingua107_part12/mk/filtered_train.json",
+      "commonvoice_part4/mk/filtered_train.json"
+    ],
+    "duration": 104.01729404513928
+  },
+  "mr": {
+    "json": [
+      "voxlingua107_part12/mr/filtered_train.json",
+      "commonvoice_part4/mr/filtered_train.json"
+    ],
+    "duration": 86.58662173611128
+  },
+  "ml": {
+    "json": [
+      "voxlingua107_part12/ml/filtered_train.json",
+      "commonvoice_part4/ml/filtered_train.json"
+    ],
+    "duration": 42.99377875000002
+  },
+  "ig": {
+    "json": [
+      "commonvoice_part5/ig/filtered_train.json"
+    ],
+    "duration": 0.01192
+  },
+  "ga-IE": {
+    "json": [
+      "commonvoice_part5/ga-IE/filtered_train.json"
+    ],
+    "duration": 3.215964852607707
+  },
+  "hsb": {
+    "json": [
+      "commonvoice_part5/hsb/filtered_train.json"
+    ],
+    "duration": 1.4832800000000008
+  },
+  "no": {
+    "json": [
+      "voxlingua107_part13/no/filtered_train.json"
+    ],
+    "duration": 98.22249720486059
+  },
+  "ps": {
+    "json": [
+      "voxlingua107_part13/ps/filtered_train.json"
+    ],
+    "duration": 44.67495027777793
+  },
+  "oc": {
+    "json": [
+      "voxlingua107_part13/oc/filtered_train.json"
+    ],
+    "duration": 13.65568897569442
+  },
+  "mdf": {
+    "json": [
+      "commonvoice_part4/mdf/filtered_train.json"
+    ],
+    "duration": 0.19454999999999986
+  },
+  "kab": {
+    "json": [
+      "commonvoice_part4/kab/filtered_train.json"
+    ],
+    "duration": 516.6261900001367
+  },
+  "ky": {
+    "json": [
+      "commonvoice_part4/ky/filtered_train.json"
+    ],
+    "duration": 32.55370999999926
+  },
+  "mrj": {
+    "json": [
+      "commonvoice_part4/mrj/filtered_train.json"
+    ],
+    "duration": 6.48271000000007
+  },
+  "kmr": {
+    "json": [
+      "commonvoice_part4/kmr/filtered_train.json"
+    ],
+    "duration": 45.767790000001106
+  },
+  "mhr": {
+    "json": [
+      "commonvoice_part4/mhr/filtered_train.json"
+    ],
+    "duration": 97.45707000001148
+  },
+  "myv": {
+    "json": [
+      "commonvoice_part4/myv/filtered_train.json"
+    ],
+    "duration": 1.0708499999999999
+  }
+}
