@@ -16,7 +16,7 @@ SEE NOTICES BELOW CONCERNING SOFTWARE FILES (PART 1) AND DATASETS (PART 2):
 **************************************************************************
 
 -----------------------------------------------------------------------
-PART 1: SEE NOTICES BELOW WITH RESPECT TO SOFTWARE FILES:
+SEE NOTICES BELOW WITH RESPECT TO SOFTWARE FILES:
 -----------------------------------------------------------------------
 (A) This software:
 	01_dataset_preproc/dataset_specific_preproc/voxlingua107/VAD/music_noise_detection.py
