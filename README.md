@@ -35,6 +35,10 @@ booktitle={Interspeech 2024},
 ```
 
 ## Funding
+<img src="https://github.com/utter-project/mHuBERT-147-scripts/assets/11521062/a1daa02f-2a9d-4d0a-9fd2-2fc96cdace63" width=20% height=20%> 
 
-This is an output of the European Project UTTER (Unified Transcription and Translation for Extended Reality) under grant number 101070631.
-For more information go to https://he-utter.eu/
+This is an output of the European Project UTTER (Unified Transcription and Translation for Extended Reality) funded by European Union’s Horizon Europe Research and Innovation programme under grant agreement number 101070631.
+
+For more information please visit https://he-utter.eu/
+
+
