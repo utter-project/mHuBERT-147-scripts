@@ -19,12 +19,22 @@ Fairseq fork for training: https://github.com/utter-project/fairseq
 
 ## Other Resources
 
-Pre-trained models with trained faiss indices: TO DO LINK OF COLLECTION
+Pre-trained models with trained faiss indices: https://huggingface.co/collections/utter-project/mhubert-147-models-665f1c1dea9a5601a1bfc905
 
-Manifest files: TO DO LINK HERE
+Manifest files: https://huggingface.co/utter-project/mHuBERT-147-base-3rd-iter/tree/main/manifest
 
 ## Citation
 
 ```
-TO DO
+@inproceedings{boito2024mhubert,
+author={Marcely Zanon Boito, Vivek Iyer, Nikolaos Lagos, Laurent Besacier, Ioan Calapodescu},
+title={{mHuBERT-147: A Compact Multilingual HuBERT Model}},
+year=2024,
+booktitle={Interspeech 2024},
+}
 ```
+
+## Funding
+
+This is an output of the European Project UTTER (Unified Transcription and Translation for Extended Reality) under grant number 101070631.
+For more information go to https://he-utter.eu/
