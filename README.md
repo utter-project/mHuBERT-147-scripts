@@ -41,4 +41,4 @@ This is an output of the European Project UTTER (Unified Transcription and Trans
 
 For more information please visit https://he-utter.eu/
 
-
+NAVER LABS Europe: https://europe.naverlabs.com/
